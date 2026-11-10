@@ -1,0 +1,3 @@
+﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.

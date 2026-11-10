@@ -1,0 +1,3 @@
+﻿Pharmacy Management System
+
+A pharmacy management system helps medical shops manage medicines, stock availability, sales, purchases, and expiry dates. It maintains medicine information and helps pharmacists identify low-stock products. Digital pharmacy management improves inventory control and reduces manual errors.

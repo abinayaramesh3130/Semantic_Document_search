@@ -1,0 +1,3 @@
+﻿Hospital Appointment Scheduling
+
+Hospital appointment scheduling helps patients book consultations with doctors. Online appointment systems reduce waiting time and improve hospital services. Patients can select doctors, check available time slots, and receive appointment confirmations. Efficient scheduling helps hospitals manage patient visits and doctor availability.

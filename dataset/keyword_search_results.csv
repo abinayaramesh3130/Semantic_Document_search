@@ -1,0 +1,275 @@
+query,rank,document_id,document,keyword_score
+how can hospitals manage patient records?,1,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",8
+how can hospitals manage patient records?,2,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",7
+how can hospitals manage patient records?,3,document_03.txt,"﻿Hospital Appointment Scheduling
+
+Hospital appointment scheduling helps patients book consultations with doctors. Online appointment systems reduce waiting time and improve hospital services. Patients can select doctors, check available time slots, and receive appointment confirmations. Efficient scheduling helps hospitals manage patient visits and doctor availability.
+",4
+how can hospitals manage patient records?,4,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",4
+how can hospitals manage patient records?,5,document_07.txt,"﻿Pharmacy Management System
+
+A pharmacy management system helps medical shops manage medicines, stock availability, sales, purchases, and expiry dates. It maintains medicine information and helps pharmacists identify low-stock products. Digital pharmacy management improves inventory control and reduces manual errors.
+",1
+how do doctors schedule patient appointments?,1,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",6
+how do doctors schedule patient appointments?,2,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",4
+how do doctors schedule patient appointments?,3,document_03.txt,"﻿Hospital Appointment Scheduling
+
+Hospital appointment scheduling helps patients book consultations with doctors. Online appointment systems reduce waiting time and improve hospital services. Patients can select doctors, check available time slots, and receive appointment confirmations. Efficient scheduling helps hospitals manage patient visits and doctor availability.
+",3
+how do doctors schedule patient appointments?,4,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",2
+how do doctors schedule patient appointments?,5,document_06.txt,"﻿Telemedicine Services
+
+Telemedicine allows patients to consult doctors remotely using video calls, mobile applications, and online communication platforms. It helps people living in rural areas access medical advice without travelling long distances. Telemedicine improves healthcare accessibility and saves time for patients and doctors.
+",2
+what is the importance of medical diagnosis?,1,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",10
+what is the importance of medical diagnosis?,2,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",6
+what is the importance of medical diagnosis?,3,document_10.txt,"﻿Preventive Healthcare and Wellness
+
+Preventive healthcare focuses on avoiding diseases through regular medical checkups, vaccination, exercise, balanced nutrition, and healthy lifestyle habits. Early detection of health problems helps people receive treatment at the right time. Preventive care improves overall health and reduces medical complications.
+",4
+what is the importance of medical diagnosis?,4,document_08.txt,"﻿Medical Laboratory Management
+
+Medical laboratory management involves handling patient samples, conducting diagnostic tests, recording test results, and preparing laboratory reports. Digital laboratory systems help technicians organize test information and deliver accurate reports to doctors. Efficient laboratory management supports better diagnosis.
+",3
+what is the importance of medical diagnosis?,5,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",2
+how can healthcare data be protected?,1,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",7
+how can healthcare data be protected?,2,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",4
+how can healthcare data be protected?,3,document_09.txt,"﻿Emergency Healthcare Services
+
+Emergency healthcare services provide immediate medical attention to patients facing accidents, injuries, and serious health conditions. Emergency departments coordinate doctors, nurses, ambulances, and medical equipment. Quick response and proper treatment can help save lives.
+",3
+how can healthcare data be protected?,4,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",2
+how can healthcare data be protected?,5,document_10.txt,"﻿Preventive Healthcare and Wellness
+
+Preventive healthcare focuses on avoiding diseases through regular medical checkups, vaccination, exercise, balanced nutrition, and healthy lifestyle habits. Early detection of health problems helps people receive treatment at the right time. Preventive care improves overall health and reduces medical complications.
+",2
+what are the benefits of telemedicine?,1,document_06.txt,"﻿Telemedicine Services
+
+Telemedicine allows patients to consult doctors remotely using video calls, mobile applications, and online communication platforms. It helps people living in rural areas access medical advice without travelling long distances. Telemedicine improves healthcare accessibility and saves time for patients and doctors.
+",3
+what are the benefits of telemedicine?,2,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",2
+what are the benefits of telemedicine?,3,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",2
+what are the benefits of telemedicine?,4,document_10.txt,"﻿Preventive Healthcare and Wellness
+
+Preventive healthcare focuses on avoiding diseases through regular medical checkups, vaccination, exercise, balanced nutrition, and healthy lifestyle habits. Early detection of health problems helps people receive treatment at the right time. Preventive care improves overall health and reduces medical complications.
+",2
+what are the benefits of telemedicine?,5,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",0
+how do pharmacies manage medicine inventory?,1,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",3
+how do pharmacies manage medicine inventory?,2,document_07.txt,"﻿Pharmacy Management System
+
+A pharmacy management system helps medical shops manage medicines, stock availability, sales, purchases, and expiry dates. It maintains medicine information and helps pharmacists identify low-stock products. Digital pharmacy management improves inventory control and reduces manual errors.
+",3
+how do pharmacies manage medicine inventory?,3,document_03.txt,"﻿Hospital Appointment Scheduling
+
+Hospital appointment scheduling helps patients book consultations with doctors. Online appointment systems reduce waiting time and improve hospital services. Patients can select doctors, check available time slots, and receive appointment confirmations. Efficient scheduling helps hospitals manage patient visits and doctor availability.
+",1
+how do pharmacies manage medicine inventory?,4,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",0
+how do pharmacies manage medicine inventory?,5,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",0
+how are medical laboratory reports managed?,1,document_08.txt,"﻿Medical Laboratory Management
+
+Medical laboratory management involves handling patient samples, conducting diagnostic tests, recording test results, and preparing laboratory reports. Digital laboratory systems help technicians organize test information and deliver accurate reports to doctors. Efficient laboratory management supports better diagnosis.
+",9
+how are medical laboratory reports managed?,2,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",5
+how are medical laboratory reports managed?,3,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",4
+how are medical laboratory reports managed?,4,document_09.txt,"﻿Emergency Healthcare Services
+
+Emergency healthcare services provide immediate medical attention to patients facing accidents, injuries, and serious health conditions. Emergency departments coordinate doctors, nurses, ambulances, and medical equipment. Quick response and proper treatment can help save lives.
+",2
+how are medical laboratory reports managed?,5,document_10.txt,"﻿Preventive Healthcare and Wellness
+
+Preventive healthcare focuses on avoiding diseases through regular medical checkups, vaccination, exercise, balanced nutrition, and healthy lifestyle habits. Early detection of health problems helps people receive treatment at the right time. Preventive care improves overall health and reduces medical complications.
+",2
+what happens during emergency healthcare services?,1,document_09.txt,"﻿Emergency Healthcare Services
+
+Emergency healthcare services provide immediate medical attention to patients facing accidents, injuries, and serious health conditions. Emergency departments coordinate doctors, nurses, ambulances, and medical equipment. Quick response and proper treatment can help save lives.
+",7
+what happens during emergency healthcare services?,2,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",4
+what happens during emergency healthcare services?,3,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",4
+what happens during emergency healthcare services?,4,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",3
+what happens during emergency healthcare services?,5,document_06.txt,"﻿Telemedicine Services
+
+Telemedicine allows patients to consult doctors remotely using video calls, mobile applications, and online communication platforms. It helps people living in rural areas access medical advice without travelling long distances. Telemedicine improves healthcare accessibility and saves time for patients and doctors.
+",2
+how can people prevent diseases?,1,document_10.txt,"﻿Preventive Healthcare and Wellness
+
+Preventive healthcare focuses on avoiding diseases through regular medical checkups, vaccination, exercise, balanced nutrition, and healthy lifestyle habits. Early detection of health problems helps people receive treatment at the right time. Preventive care improves overall health and reduces medical complications.
+",2
+how can people prevent diseases?,2,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",1
+how can people prevent diseases?,3,document_03.txt,"﻿Hospital Appointment Scheduling
+
+Hospital appointment scheduling helps patients book consultations with doctors. Online appointment systems reduce waiting time and improve hospital services. Patients can select doctors, check available time slots, and receive appointment confirmations. Efficient scheduling helps hospitals manage patient visits and doctor availability.
+",1
+how can people prevent diseases?,4,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",1
+how can people prevent diseases?,5,document_06.txt,"﻿Telemedicine Services
+
+Telemedicine allows patients to consult doctors remotely using video calls, mobile applications, and online communication platforms. It helps people living in rural areas access medical advice without travelling long distances. Telemedicine improves healthcare accessibility and saves time for patients and doctors.
+",1
+how does a healthcare management system work?,1,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",8
+how does a healthcare management system work?,2,document_07.txt,"﻿Pharmacy Management System
+
+A pharmacy management system helps medical shops manage medicines, stock availability, sales, purchases, and expiry dates. It maintains medicine information and helps pharmacists identify low-stock products. Digital pharmacy management improves inventory control and reduces manual errors.
+",6
+how does a healthcare management system work?,3,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",5
+how does a healthcare management system work?,4,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",3
+how does a healthcare management system work?,5,document_08.txt,"﻿Medical Laboratory Management
+
+Medical laboratory management involves handling patient samples, conducting diagnostic tests, recording test results, and preparing laboratory reports. Digital laboratory systems help technicians organize test information and deliver accurate reports to doctors. Efficient laboratory management supports better diagnosis.
+",3
+how can patients consult doctors online?,1,document_03.txt,"﻿Hospital Appointment Scheduling
+
+Hospital appointment scheduling helps patients book consultations with doctors. Online appointment systems reduce waiting time and improve hospital services. Patients can select doctors, check available time slots, and receive appointment confirmations. Efficient scheduling helps hospitals manage patient visits and doctor availability.
+",6
+how can patients consult doctors online?,2,document_06.txt,"﻿Telemedicine Services
+
+Telemedicine allows patients to consult doctors remotely using video calls, mobile applications, and online communication platforms. It helps people living in rural areas access medical advice without travelling long distances. Telemedicine improves healthcare accessibility and saves time for patients and doctors.
+",6
+how can patients consult doctors online?,3,document_09.txt,"﻿Emergency Healthcare Services
+
+Emergency healthcare services provide immediate medical attention to patients facing accidents, injuries, and serious health conditions. Emergency departments coordinate doctors, nurses, ambulances, and medical equipment. Quick response and proper treatment can help save lives.
+",3
+how can patients consult doctors online?,4,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",2
+how can patients consult doctors online?,5,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",2
+why is patient medical history important?,1,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",9
+why is patient medical history important?,2,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",6
+why is patient medical history important?,3,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",4
+why is patient medical history important?,4,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",3
+why is patient medical history important?,5,document_08.txt,"﻿Medical Laboratory Management
+
+Medical laboratory management involves handling patient samples, conducting diagnostic tests, recording test results, and preparing laboratory reports. Digital laboratory systems help technicians organize test information and deliver accurate reports to doctors. Efficient laboratory management supports better diagnosis.
+",3
+how can hospitals reduce waiting time?,1,document_03.txt,"﻿Hospital Appointment Scheduling
+
+Hospital appointment scheduling helps patients book consultations with doctors. Online appointment systems reduce waiting time and improve hospital services. Patients can select doctors, check available time slots, and receive appointment confirmations. Efficient scheduling helps hospitals manage patient visits and doctor availability.
+",6
+how can hospitals reduce waiting time?,2,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",2
+how can hospitals reduce waiting time?,3,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",2
+how can hospitals reduce waiting time?,4,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",1
+how can hospitals reduce waiting time?,5,document_06.txt,"﻿Telemedicine Services
+
+Telemedicine allows patients to consult doctors remotely using video calls, mobile applications, and online communication platforms. It helps people living in rural areas access medical advice without travelling long distances. Telemedicine improves healthcare accessibility and saves time for patients and doctors.
+",1
+what security methods protect medical databases?,1,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",5
+what security methods protect medical databases?,2,document_04.txt,"﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.
+",4
+what security methods protect medical databases?,3,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",2
+what security methods protect medical databases?,4,document_08.txt,"﻿Medical Laboratory Management
+
+Medical laboratory management involves handling patient samples, conducting diagnostic tests, recording test results, and preparing laboratory reports. Digital laboratory systems help technicians organize test information and deliver accurate reports to doctors. Efficient laboratory management supports better diagnosis.
+",2
+what security methods protect medical databases?,5,document_09.txt,"﻿Emergency Healthcare Services
+
+Emergency healthcare services provide immediate medical attention to patients facing accidents, injuries, and serious health conditions. Emergency departments coordinate doctors, nurses, ambulances, and medical equipment. Quick response and proper treatment can help save lives.
+",2
+why is preventive healthcare important?,1,document_10.txt,"﻿Preventive Healthcare and Wellness
+
+Preventive healthcare focuses on avoiding diseases through regular medical checkups, vaccination, exercise, balanced nutrition, and healthy lifestyle habits. Early detection of health problems helps people receive treatment at the right time. Preventive care improves overall health and reduces medical complications.
+",5
+why is preventive healthcare important?,2,document_02.txt,"Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.",4
+why is preventive healthcare important?,3,document_01.txt,"Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.",3
+why is preventive healthcare important?,4,document_05.txt,"﻿Healthcare Data Security
+
+Healthcare data security protects sensitive patient information from unauthorized access, misuse, and data loss. Hospitals use passwords, encryption, access controls, and secure databases to protect medical records. Maintaining data privacy builds patient trust and supports safe healthcare services.
+",3
+why is preventive healthcare important?,5,document_09.txt,"﻿Emergency Healthcare Services
+
+Emergency healthcare services provide immediate medical attention to patients facing accidents, injuries, and serious health conditions. Emergency departments coordinate doctors, nurses, ambulances, and medical equipment. Quick response and proper treatment can help save lives.
+",2

@@ -1,0 +1,3 @@
+﻿Medical Diagnosis and Treatment
+
+Medical diagnosis is the process of identifying diseases based on symptoms, medical history, physical examinations, and laboratory tests. Doctors use diagnostic information to recommend suitable treatments. Accurate diagnosis helps patients receive appropriate medical care and improves treatment outcomes.

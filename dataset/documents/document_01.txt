@@ -1,0 +1,3 @@
+Healthcare Management System
+
+A healthcare management system helps hospitals and clinics manage patient records, doctor appointments, medical histories, and treatment information. It improves hospital efficiency by storing patient details digitally. Doctors can access medical records quickly and provide better treatment. Healthcare systems also help manage billing, laboratory reports, and medicine information.

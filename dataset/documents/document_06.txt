@@ -1,0 +1,3 @@
+﻿Telemedicine Services
+
+Telemedicine allows patients to consult doctors remotely using video calls, mobile applications, and online communication platforms. It helps people living in rural areas access medical advice without travelling long distances. Telemedicine improves healthcare accessibility and saves time for patients and doctors.

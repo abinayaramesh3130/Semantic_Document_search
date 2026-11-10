@@ -1,0 +1,3 @@
+﻿Medical Laboratory Management
+
+Medical laboratory management involves handling patient samples, conducting diagnostic tests, recording test results, and preparing laboratory reports. Digital laboratory systems help technicians organize test information and deliver accurate reports to doctors. Efficient laboratory management supports better diagnosis.

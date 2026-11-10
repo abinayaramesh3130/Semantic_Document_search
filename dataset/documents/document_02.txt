@@ -1,0 +1,3 @@
+Patient Record Management
+
+Patient record management is an important part of healthcare services. Hospitals maintain patient information such as name, age, medical history, diagnosis, prescribed medicines, and treatment details. Digital patient records reduce paperwork and help doctors retrieve information quickly. Proper record management improves patient safety, supports accurate diagnosis, and ensures continuity of healthcare services.
